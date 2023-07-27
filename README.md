@@ -1,0 +1,14 @@
+# user 13 T1TP33.75-57-1 7b1563 release-keys
+- manufacturer: motorola
+- platform: holi
+- codename: penang
+- flavor: user
+- release: 13
+- id: T1TP33.75-57-1
+- incremental: 7b1563
+- tags: release-keys
+- fingerprint: motorola/penang_g/penang:11/T1TP33.75-57-1/7b1563:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-13-T1TP33.75-57-1-7b1563-release-keys
+- repo: motorola_penang_dump
